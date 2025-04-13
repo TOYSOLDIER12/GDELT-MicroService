@@ -1,0 +1,5 @@
+1-automated search for keywords
+
+2 filter from gdelt or filter from csv files
+
+
